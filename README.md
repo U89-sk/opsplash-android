@@ -5,25 +5,24 @@
 ## Installation On Termux
 
 ```bash
-
 apt update && apt upgrade -y
-
 ```
 
 ```bash
-
 apt install git
-
 ```
+
+```bash
 git clone https://github.com/U89-sk/opsplash-android
-```bash
-
-cd opsplash-android
-
 ```
-chmod +x opsplash-android
-```bash
 
+```bash
+cd opsplash-android
+```
+
+```bash
+chmod +x opsplash-android
+```
 
 ## Usage
 ### Unpack oppo splash image    
