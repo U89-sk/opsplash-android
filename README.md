@@ -49,7 +49,7 @@ Command support below:
 
 ```
 
-### Unpack splash image
+### How To Unpack splash image
 
 How to copy paste Splash.img in Termux Directory
 ```bash
@@ -70,7 +70,7 @@ How to replace bmp file in termux Directory
 cp /sdcard/Download/boot.bmp pic/boot.bmp
 ```
     
-### Repack splash image
+### How To Repack splash image
 Repack Command -
 ``` sh
 ./opsplash repack -i splash.img -o new-splash.img
