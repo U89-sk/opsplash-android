@@ -1,38 +1,10 @@
 # opsplash
 A command line tool unpack/repack oppo/realme/oneplus splash image
 
-## How to compile
-### Main program
-*** Need zlib-devel    
-``` sh
-make
-```
-### As python library
-``` sh
-python3 setup.py build
-python3 setup.py install
-```
-#### Use python library
-``` python
-import os
-import opsplash as o
 
-f = "splash.img"
+![Source & Credits] (https://github.com/affggh/opsplash)
 
-# Unpack a splash image
-if os.access(f, os.F_OK):
-    # o.readinfo(f)
-    o.unpack(f)
 
-if os.access(f, os.F_OK):
-    o.repack(f, "new-splash.img")
-
-```
-
-## Prebuilt library
-In prebuilt dir    
-Have win64 python3.10 library    
-Have win64 dll library
 
 ## Usage
 ### Unpack oppo splash image    
