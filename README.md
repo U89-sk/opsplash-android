@@ -6,6 +6,10 @@
 ## Installation On Termux
 
 ```bash
+termux-setup-storage
+```
+
+```bash
 apt update && apt upgrade -y
 ```
 
@@ -59,6 +63,26 @@ Command support below:
 ``` sh
 ./opsplash readinfo -i splash.img
 ```
+
+### Extra Explanation
+
+How to copy paste Splash.img in Termux
+```bash
+cp /sdcard/Download/splash.img splash.img
+```
+How to replace bmp file in termux
+```bash
+cp /sdcard/Download/boot.bmp pic/boot.bmp
+```
+How to Copy New-splash.img From Termux
+```bash
+cp new-splash.img /sdcard/Download
+```
+
+### Extra Options
+
+- JPG TO BMP CONVERTER : <a href="https://products.aspose.app/pdf/conversion/jpg-to-bmp">Link here</a>
+
 
 ## Source & Credits
 > https://github.com/affggh/opsplash
