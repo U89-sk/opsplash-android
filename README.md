@@ -28,8 +28,7 @@ chmod +x opsplash-android
 ## Usage
 ``` sh
 
-Usage:
-        opsplash [command] [-i] [-o]
+Usage: opsplash [command] [-i] [-o]
                 -i,--input              File input
                 -o,--output             File/Dir output
         This is for oppo splash unpack/repack tool
@@ -56,8 +55,5 @@ Command support below:
 ./opsplash readinfo -i splash.img
 ```
 
-
-
-
-## Source & Cred
+## Source & Credits
 https://github.com/affggh/opsplash
