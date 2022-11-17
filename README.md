@@ -51,7 +51,7 @@ Command support below:
 
 ### How To Unpack splash image
 
-How to copy paste Splash.img in Termux Directory
+copy paste Splash.img in Termux Directory
 ```bash
 cp /sdcard/Download/splash.img splash.img
 ```
@@ -59,12 +59,11 @@ See your files by typing ls command
 ```sh
 ls
 ```
-
 Unpack Command:
 ``` sh
 ./opsplash unpack -i splash.img -o pic
 ```
-How to replace bmp file in termux Directory
+Replace .bmp files in Termux Directory
 
 ```bash
 cp /sdcard/Download/boot.bmp pic/boot.bmp
@@ -76,11 +75,14 @@ Repack Command:
 ./opsplash repack -i splash.img -o new-splash.img
 ```
 
-How to Copy new-splash.img From Termux Directory
+Copy new-splash.img From Termux Directory
 
 ```bash
 cp new-splash.img /sdcard/Download
 ```
+
+
+#
 ### Only read image info
 ``` sh
 ./opsplash readinfo -i splash.img
