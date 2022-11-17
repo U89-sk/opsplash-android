@@ -1,5 +1,5 @@
 # opsplash
-[![Source & Credits](https://shields.io/github/affggh/opsplash)](https://github.com/affggh/opsplash)
+[![Source & Credits](https://shields.io/github/license/affggh/opsplash)](https://github.com/affggh/opsplash)
 [![latest release](https://shields.io/github/affggh/opsplash/releases)](https://github.com/affggh/opsplash/releases)
 
 #### A command line tool unpack/repack oppo/realme/oneplus splash image
