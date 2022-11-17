@@ -55,7 +55,7 @@ How to copy paste Splash.img in Termux Directory
 ```bash
 cp /sdcard/Download/splash.img splash.img
 ```
-see your files
+See your files by typing ls command
 ```sh
 ls
 ```
