@@ -1,12 +1,28 @@
 # opsplash
-[![Source & Credits](https://shields.io/github/license/affggh/opsplash)](https://github.com/affggh/opsplash)
-[![latest release](https://shields.io/github/v/releases/affggh/opsplash)](https://github.com/affggh/opsplash/releases)
 
-#### A command line tool unpack/repack oppo/realme/oneplus splash image
+ A command line tool unpack/repack oppo/realme/oneplus splash image
 
+## Installation On Termux
 
+```bash
 
+apt update && apt upgrade -y
 
+```
+
+```bash
+
+apt install git
+
+```
+git clone https://github.com/U89-sk/opsplash-android
+```bash
+
+cd opsplash-android
+
+```
+chmod +x opsplash-android
+```bash
 
 
 ## Usage
@@ -24,3 +40,9 @@
 ``` sh
 ./opsplash readinfo -i splash.img
 ```
+
+
+
+
+## Source & Cred
+https://github.com/affggh/opsplash
