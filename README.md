@@ -30,7 +30,7 @@ chmod +x opsplash
 ```
 
 #
-## - For More Information Read opsplash xda : <a href="https://forum.xda-developers.com/t/tool-splash-qcom-change-oppo-realme-oneplus-boot-splash-image.4498545">Link here</a>
+## - For More Information Read Opsplash Xda : <a href="https://forum.xda-developers.com/t/tool-splash-qcom-change-oppo-realme-oneplus-boot-splash-image.4498545">Link here</a>
 #
 
 ## Usage
