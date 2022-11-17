@@ -60,7 +60,7 @@ see your files
 ls
 ```
 
-Unpack Command -
+Unpack Command:
 ``` sh
 ./opsplash unpack -i splash.img -o pic
 ```
@@ -71,7 +71,7 @@ cp /sdcard/Download/boot.bmp pic/boot.bmp
 ```
     
 ### How To Repack splash image
-Repack Command -
+Repack Command:
 ``` sh
 ./opsplash repack -i splash.img -o new-splash.img
 ```
