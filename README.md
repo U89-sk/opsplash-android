@@ -25,9 +25,9 @@ cd opsplash-android
 chmod +x opsplash
 ```
 
-#####
-- For More Information Read xda opsplash Page : <a href="https://forum.xda-developers.com/t/tool-splash-qcom-change-oppo-realme-oneplus-boot-splash-image.4498545">Link here</a>
-
+#
+## - For More Information Read xda opsplash Page : <a href="https://forum.xda-developers.com/t/tool-splash-qcom-change-oppo-realme-oneplus-boot-splash-image.4498545">Link here</a>
+#
 
 ## Usage
 ``` sh
