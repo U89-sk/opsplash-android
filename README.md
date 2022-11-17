@@ -49,12 +49,12 @@ Command support below:
 
 ```
 
-### Unpack oppo splash image    
+### Unpack splash image    
 ``` sh
 ./opsplash unpack -i splash.img -o pic
 ```
     
-### Repack oppo splash image
+### Repack splash image
 ``` sh
 ./opsplash repack -i splash.img -o new-splash.img
 ```
