@@ -2,6 +2,7 @@
 
  A command line tool unpack/repack oppo/realme/oneplus splash image
 
+#
 ## Installation On Termux
 
 ```bash
@@ -25,6 +26,21 @@ chmod +x opsplash-android
 ```
 
 ## Usage
+``` sh
+
+Usage:
+        opsplash [command] [-i] [-o]
+                -i,--input              File input
+                -o,--output             File/Dir output
+        This is for oppo splash unpack/repack tool
+        If you use this just take all risk by your self
+Command support below:
+        readinfo
+        unpack
+        repack
+
+```
+
 ### Unpack oppo splash image    
 ``` sh
 ./opsplash unpack -i splash.img -o pic
