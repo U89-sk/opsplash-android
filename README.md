@@ -31,7 +31,7 @@ chmod +x opsplash-android
 Usage: opsplash [command] [-i] [-o]
                 -i,--input              File input
                 -o,--output             File/Dir output
-        This is for oppo splash unpack/repack tool
+        This is for oppo oneplus realme splash unpack/repack tool
         If you use this just take all risk by your self
         
 Command support below:
