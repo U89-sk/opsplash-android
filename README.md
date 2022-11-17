@@ -74,7 +74,7 @@ How to replace bmp file in termux
 ```bash
 cp /sdcard/Download/boot.bmp pic/boot.bmp
 ```
-How to Copy New-splash.img From Termux
+How to Copy new-splash.img From Termux
 ```bash
 cp new-splash.img /sdcard/Download
 ```
