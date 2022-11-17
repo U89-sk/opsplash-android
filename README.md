@@ -59,8 +59,9 @@ see your files
 ```sh
 ls
 ```
-``` sh
+
 Unpack Command -
+``` sh
 ./opsplash unpack -i splash.img -o pic
 ```
 How to replace bmp file in termux Directory
