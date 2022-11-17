@@ -22,7 +22,7 @@ cd opsplash-android
 ```
 
 ```bash
-chmod +x opsplash-android
+chmod +x opsplash
 ```
 
 ## Usage
