@@ -60,6 +60,7 @@ see your files
 ls
 ```
 ``` sh
+Unpack Command -
 ./opsplash unpack -i splash.img -o pic
 ```
 How to replace bmp file in termux Directory
@@ -69,6 +70,7 @@ cp /sdcard/Download/boot.bmp pic/boot.bmp
 ```
     
 ### Repack splash image
+Repack Command -
 ``` sh
 ./opsplash repack -i splash.img -o new-splash.img
 ```
